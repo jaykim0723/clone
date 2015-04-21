@@ -1,0 +1,5 @@
+.active a{color:#5DB0E6;text-decoration:none;}
+#playlist li a{color:#eeeedd;background:#333;padding:5px;display:block;text-decoration:none;}
+#playlist li a:hover{text-decoration:none;}
+.track {list-style: none; margin: 0 0 5px 2px;}
+#playlist,audio{background:#666;width:400px;padding:20px;}
